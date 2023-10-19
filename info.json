@@ -1,5 +1,286 @@
 {
     "available_space": true,
-    "content": [],
-    "total_size": 0.0
+    "content": [
+        {
+            "id": "r30D3SW4OVw",
+            "name": "Maurice Ravel - Bolero [r30D3SW4OVw].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/j4/videos/Maurice Ravel - Bolero [r30D3SW4OVw].mp4",
+            "size": 17.862049,
+            "url": "https://github.com/circuitalmynds/music_j4/blob/main/videos/Maurice Ravel - Bolero [r30D3SW4OVw].mp4?raw=true"
+        },
+        {
+            "id": "NbgAHpD4W_8",
+            "name": "Moncayo - Huapango (Alondra de la Parra, Orchestre de Paris) [NbgAHpD4W_8].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/j4/videos/Moncayo - Huapango (Alondra de la Parra, Orchestre de Paris) [NbgAHpD4W_8].mp4",
+            "size": 51.388867999999995,
+            "url": "https://github.com/circuitalmynds/music_j4/blob/main/videos/Moncayo - Huapango (Alondra de la Parra, Orchestre de Paris) [NbgAHpD4W_8].mp4?raw=true"
+        },
+        {
+            "id": "9Z-CHbn5O74",
+            "name": "Fascinating Rhythm [9Z-CHbn5O74].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/j4/videos/Fascinating Rhythm [9Z-CHbn5O74].mp4",
+            "size": 8.385734,
+            "url": "https://github.com/circuitalmynds/music_j4/blob/main/videos/Fascinating Rhythm [9Z-CHbn5O74].mp4?raw=true"
+        },
+        {
+            "id": "BpAf-BjTlew",
+            "name": "Piramo e Tisbe： Aria： Deh, non varcar quell' onda (Piramo) [BpAf-BjTlew].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/j4/videos/Piramo e Tisbe： Aria： Deh, non varcar quell' onda (Piramo) [BpAf-BjTlew].mp4",
+            "size": 7.383045,
+            "url": "https://github.com/circuitalmynds/music_j4/blob/main/videos/Piramo e Tisbe： Aria： Deh, non varcar quell' onda (Piramo) [BpAf-BjTlew].mp4?raw=true"
+        },
+        {
+            "id": "p6457kRoHIM",
+            "name": "Paganini： 24 Caprices for Violin, Op. 1, MS. 25 - No. 17 in E-Flat Major [p6457kRoHIM].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/j4/videos/Paganini： 24 Caprices for Violin, Op. 1, MS. 25 - No. 17 in E-Flat Major [p6457kRoHIM].mp4",
+            "size": 5.041166,
+            "url": "https://github.com/circuitalmynds/music_j4/blob/main/videos/Paganini： 24 Caprices for Violin, Op. 1, MS. 25 - No. 17 in E-Flat Major [p6457kRoHIM].mp4?raw=true"
+        },
+        {
+            "id": "yByP88jUQH4",
+            "name": "Laid Back  - Bakerman Original Video [yByP88jUQH4].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/j4/videos/Laid Back  - Bakerman Original Video [yByP88jUQH4].mp4",
+            "size": 13.869658,
+            "url": "https://github.com/circuitalmynds/music_j4/blob/main/videos/Laid Back  - Bakerman Original Video [yByP88jUQH4].mp4?raw=true"
+        },
+        {
+            "id": "4yv2fUOMJxY",
+            "name": "Saint-Saëns： Piano Concerto No. 2 [4yv2fUOMJxY].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/j4/videos/Saint-Saëns： Piano Concerto No. 2 [4yv2fUOMJxY].mp4",
+            "size": 67.388708,
+            "url": "https://github.com/circuitalmynds/music_j4/blob/main/videos/Saint-Saëns： Piano Concerto No. 2 [4yv2fUOMJxY].mp4?raw=true"
+        },
+        {
+            "id": "6pj2BjDNrBQ",
+            "name": "La vedova (Il ranch) , pt. 2 [6pj2BjDNrBQ].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/j4/videos/La vedova (Il ranch) , pt. 2 [6pj2BjDNrBQ].mp4",
+            "size": 4.241238,
+            "url": "https://github.com/circuitalmynds/music_j4/blob/main/videos/La vedova (Il ranch) , pt. 2 [6pj2BjDNrBQ].mp4?raw=true"
+        },
+        {
+            "id": "m_MdBR5JGQM",
+            "name": "Liszt： Die Vätergruft S. 281 [m_MdBR5JGQM].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/j4/videos/Liszt： Die Vätergruft S. 281 [m_MdBR5JGQM].mp4",
+            "size": 13.598056,
+            "url": "https://github.com/circuitalmynds/music_j4/blob/main/videos/Liszt： Die Vätergruft S. 281 [m_MdBR5JGQM].mp4?raw=true"
+        },
+        {
+            "id": "tT6oolJjp8Q",
+            "name": "Ken Laszlo - Tonight (High Energy) [tT6oolJjp8Q].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/j4/videos/Ken Laszlo - Tonight (High Energy) [tT6oolJjp8Q].mp4",
+            "size": 10.921840999999999,
+            "url": "https://github.com/circuitalmynds/music_j4/blob/main/videos/Ken Laszlo - Tonight (High Energy) [tT6oolJjp8Q].mp4?raw=true"
+        },
+        {
+            "id": "kmmmuWBOvGo",
+            "name": "Castelli Romani： No. 3, Frascati [kmmmuWBOvGo].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/j4/videos/Castelli Romani： No. 3, Frascati [kmmmuWBOvGo].mp4",
+            "size": 28.54639,
+            "url": "https://github.com/circuitalmynds/music_j4/blob/main/videos/Castelli Romani： No. 3, Frascati [kmmmuWBOvGo].mp4?raw=true"
+        },
+        {
+            "id": "wKFXMnjQI8k",
+            "name": "Liszt： Hungarian Rhapsody No. 1 in C Sharp Minor, S. 244 [wKFXMnjQI8k].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/j4/videos/Liszt： Hungarian Rhapsody No. 1 in C Sharp Minor, S. 244 [wKFXMnjQI8k].mp4",
+            "size": 32.145582,
+            "url": "https://github.com/circuitalmynds/music_j4/blob/main/videos/Liszt： Hungarian Rhapsody No. 1 in C Sharp Minor, S. 244 [wKFXMnjQI8k].mp4?raw=true"
+        },
+        {
+            "id": "_I5tl50xWxY",
+            "name": "Tchaikovsky - Lullaby： Lullaby [_I5tl50xWxY].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/j4/videos/Tchaikovsky - Lullaby： Lullaby [_I5tl50xWxY].mp4",
+            "size": 9.645685,
+            "url": "https://github.com/circuitalmynds/music_j4/blob/main/videos/Tchaikovsky - Lullaby： Lullaby [_I5tl50xWxY].mp4?raw=true"
+        },
+        {
+            "id": "5kz3no8KYkU",
+            "name": "From so Far Away [5kz3no8KYkU].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/j4/videos/From so Far Away [5kz3no8KYkU].mp4",
+            "size": 6.923242999999999,
+            "url": "https://github.com/circuitalmynds/music_j4/blob/main/videos/From so Far Away [5kz3no8KYkU].mp4?raw=true"
+        },
+        {
+            "id": "En6_3FpoQ7k",
+            "name": "Romanza de María de la O [En6_3FpoQ7k].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/j4/videos/Romanza de María de la O [En6_3FpoQ7k].mp4",
+            "size": 10.724074,
+            "url": "https://github.com/circuitalmynds/music_j4/blob/main/videos/Romanza de María de la O [En6_3FpoQ7k].mp4?raw=true"
+        },
+        {
+            "id": "sG7Ryc2rP20",
+            "name": "Etoile - Summer Fantasy (1993) [sG7Ryc2rP20].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/j4/videos/Etoile - Summer Fantasy (1993) [sG7Ryc2rP20].mp4",
+            "size": 71.08418499999999,
+            "url": "https://github.com/circuitalmynds/music_j4/blob/main/videos/Etoile - Summer Fantasy (1993) [sG7Ryc2rP20].mp4?raw=true"
+        },
+        {
+            "id": "_l09H-3zzgA",
+            "name": "The Strokes - Under Cover of Darkness (Official Video) [_l09H-3zzgA].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/j4/videos/The Strokes - Under Cover of Darkness (Official Video) [_l09H-3zzgA].mp4",
+            "size": 20.329888999999998,
+            "url": "https://github.com/circuitalmynds/music_j4/blob/main/videos/The Strokes - Under Cover of Darkness (Official Video) [_l09H-3zzgA].mp4?raw=true"
+        },
+        {
+            "id": "yuTMWgOduFM",
+            "name": "Pulp - Common People [yuTMWgOduFM].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/j4/videos/Pulp - Common People [yuTMWgOduFM].mp4",
+            "size": 13.283088,
+            "url": "https://github.com/circuitalmynds/music_j4/blob/main/videos/Pulp - Common People [yuTMWgOduFM].mp4?raw=true"
+        },
+        {
+            "id": "Wjo9faClvIw",
+            "name": "Nocturnes for piano, selection： Leschetizky, Kalkbrenner, Czerny, E.Weber, Dobrzynski, Field... [Wjo9faClvIw].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/j4/videos/Nocturnes for piano, selection： Leschetizky, Kalkbrenner, Czerny, E.Weber, Dobrzynski, Field... [Wjo9faClvIw].mp4",
+            "size": 42.148688,
+            "url": "https://github.com/circuitalmynds/music_j4/blob/main/videos/Nocturnes for piano, selection： Leschetizky, Kalkbrenner, Czerny, E.Weber, Dobrzynski, Field... [Wjo9faClvIw].mp4?raw=true"
+        },
+        {
+            "id": "x_rhZj6mqW0",
+            "name": "Al Bowlly - Summer's End (1938) [x_rhZj6mqW0].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/j4/videos/Al Bowlly - Summer's End (1938) [x_rhZj6mqW0].mp4",
+            "size": 4.288177,
+            "url": "https://github.com/circuitalmynds/music_j4/blob/main/videos/Al Bowlly - Summer's End (1938) [x_rhZj6mqW0].mp4?raw=true"
+        },
+        {
+            "id": "eLWDbHW-Vt8",
+            "name": "The Sword [eLWDbHW-Vt8].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/j4/videos/The Sword [eLWDbHW-Vt8].mp4",
+            "size": 4.3021259999999995,
+            "url": "https://github.com/circuitalmynds/music_j4/blob/main/videos/The Sword [eLWDbHW-Vt8].mp4?raw=true"
+        },
+        {
+            "id": "KyOuKtn6oRI",
+            "name": "Liszt： Cantique au soleil pour baryton, choeur et orchestre [KyOuKtn6oRI].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/j4/videos/Liszt： Cantique au soleil pour baryton, choeur et orchestre [KyOuKtn6oRI].mp4",
+            "size": 33.799684,
+            "url": "https://github.com/circuitalmynds/music_j4/blob/main/videos/Liszt： Cantique au soleil pour baryton, choeur et orchestre [KyOuKtn6oRI].mp4?raw=true"
+        },
+        {
+            "id": "hRQg9DCkkxs",
+            "name": "Delroy Wilson - Dancing Mood [hRQg9DCkkxs].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/j4/videos/Delroy Wilson - Dancing Mood [hRQg9DCkkxs].mp4",
+            "size": 14.845296999999999,
+            "url": "https://github.com/circuitalmynds/music_j4/blob/main/videos/Delroy Wilson - Dancing Mood [hRQg9DCkkxs].mp4?raw=true"
+        },
+        {
+            "id": "75lpAiAbwEE",
+            "name": "Radio Futura - De un país en llamas (Álbum completo) [75lpAiAbwEE].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/j4/videos/Radio Futura - De un país en llamas (Álbum completo) [75lpAiAbwEE].mp4",
+            "size": 48.427479,
+            "url": "https://github.com/circuitalmynds/music_j4/blob/main/videos/Radio Futura - De un país en llamas (Álbum completo) [75lpAiAbwEE].mp4?raw=true"
+        },
+        {
+            "id": "mLDT4k4lLg4",
+            "name": "Two To Six Super Mix [mLDT4k4lLg4].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/j4/videos/Two To Six Super Mix [mLDT4k4lLg4].mp4",
+            "size": 8.799563,
+            "url": "https://github.com/circuitalmynds/music_j4/blob/main/videos/Two To Six Super Mix [mLDT4k4lLg4].mp4?raw=true"
+        },
+        {
+            "id": "MuLSeY14Cek",
+            "name": "Code [MuLSeY14Cek].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/j4/videos/Code [MuLSeY14Cek].mp4",
+            "size": 6.898941,
+            "url": "https://github.com/circuitalmynds/music_j4/blob/main/videos/Code [MuLSeY14Cek].mp4?raw=true"
+        },
+        {
+            "id": "7vT1O2sA36Q",
+            "name": "Miserere [7vT1O2sA36Q].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/j4/videos/Miserere [7vT1O2sA36Q].mp4",
+            "size": 2.163602,
+            "url": "https://github.com/circuitalmynds/music_j4/blob/main/videos/Miserere [7vT1O2sA36Q].mp4?raw=true"
+        },
+        {
+            "id": "k8o-Xm-R38g",
+            "name": "Liszt： 2 Etudes de Concert, S.145 - No. 1 Waldesrauschen [k8o-Xm-R38g].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/j4/videos/Liszt： 2 Etudes de Concert, S.145 - No. 1 Waldesrauschen [k8o-Xm-R38g].mp4",
+            "size": 9.007634999999999,
+            "url": "https://github.com/circuitalmynds/music_j4/blob/main/videos/Liszt： 2 Etudes de Concert, S.145 - No. 1 Waldesrauschen [k8o-Xm-R38g].mp4?raw=true"
+        },
+        {
+            "id": "RKbh1tlJCx4",
+            "name": "Esos Locos Bajitos [RKbh1tlJCx4].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/j4/videos/Esos Locos Bajitos [RKbh1tlJCx4].mp4",
+            "size": 10.410559,
+            "url": "https://github.com/circuitalmynds/music_j4/blob/main/videos/Esos Locos Bajitos [RKbh1tlJCx4].mp4?raw=true"
+        },
+        {
+            "id": "sMQzeUfl0k4",
+            "name": "Antonín Dvořák The Golden Spinning Wheel Op.109, Sir Charles Mackerras [sMQzeUfl0k4].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/j4/videos/Antonín Dvořák The Golden Spinning Wheel Op.109, Sir Charles Mackerras [sMQzeUfl0k4].mp4",
+            "size": 42.374931,
+            "url": "https://github.com/circuitalmynds/music_j4/blob/main/videos/Antonín Dvořák The Golden Spinning Wheel Op.109, Sir Charles Mackerras [sMQzeUfl0k4].mp4?raw=true"
+        },
+        {
+            "id": "HmSNufuZuo8",
+            "name": "Chopin - Berceuse in D-Flat Major, Op. 57 [HmSNufuZuo8].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/j4/videos/Chopin - Berceuse in D-Flat Major, Op. 57 [HmSNufuZuo8].mp4",
+            "size": 3.166222,
+            "url": "https://github.com/circuitalmynds/music_j4/blob/main/videos/Chopin - Berceuse in D-Flat Major, Op. 57 [HmSNufuZuo8].mp4?raw=true"
+        },
+        {
+            "id": "u4B1YbHHRN8",
+            "name": "Piramo e Tisbe： Aria： Per pieta deh, calma o cara (Piramo) [u4B1YbHHRN8].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/j4/videos/Piramo e Tisbe： Aria： Per pieta deh, calma o cara (Piramo) [u4B1YbHHRN8].mp4",
+            "size": 9.108604999999999,
+            "url": "https://github.com/circuitalmynds/music_j4/blob/main/videos/Piramo e Tisbe： Aria： Per pieta deh, calma o cara (Piramo) [u4B1YbHHRN8].mp4?raw=true"
+        },
+        {
+            "id": "jiC96wFKYn4",
+            "name": "Maria Callas in Il turco in Italia 1954, 1950 STEREO SOUND [jiC96wFKYn4].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/j4/videos/Maria Callas in Il turco in Italia 1954, 1950 STEREO SOUND [jiC96wFKYn4].mp4",
+            "size": 73.79587099999999,
+            "url": "https://github.com/circuitalmynds/music_j4/blob/main/videos/Maria Callas in Il turco in Italia 1954, 1950 STEREO SOUND [jiC96wFKYn4].mp4?raw=true"
+        },
+        {
+            "id": "aVKxdmdqDuw",
+            "name": "Liszt： Liebesträume, S. 541 - No. 2 in E-Flat Major ＂Seliger Tod＂ [aVKxdmdqDuw].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/j4/videos/Liszt： Liebesträume, S. 541 - No. 2 in E-Flat Major ＂Seliger Tod＂ [aVKxdmdqDuw].mp4",
+            "size": 10.73846,
+            "url": "https://github.com/circuitalmynds/music_j4/blob/main/videos/Liszt： Liebesträume, S. 541 - No. 2 in E-Flat Major ＂Seliger Tod＂ [aVKxdmdqDuw].mp4?raw=true"
+        },
+        {
+            "id": "YU50Pi87uNg",
+            "name": "Funny Face Overture [YU50Pi87uNg].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/j4/videos/Funny Face Overture [YU50Pi87uNg].mp4",
+            "size": 6.720974999999999,
+            "url": "https://github.com/circuitalmynds/music_j4/blob/main/videos/Funny Face Overture [YU50Pi87uNg].mp4?raw=true"
+        },
+        {
+            "id": "lUWl1kI9LsU",
+            "name": "박수소리 (Baksusori) [lUWl1kI9LsU].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/j4/videos/박수소리 (Baksusori) [lUWl1kI9LsU].mp4",
+            "size": 27.843082,
+            "url": "https://github.com/circuitalmynds/music_j4/blob/main/videos/박수소리 (Baksusori) [lUWl1kI9LsU].mp4?raw=true"
+        },
+        {
+            "id": "euTq23FnfHA",
+            "name": "Barenboim and Plácido Domingo： Manuel de Falla - Nights in the Gardens of Spain [euTq23FnfHA].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/j4/videos/Barenboim and Plácido Domingo： Manuel de Falla - Nights in the Gardens of Spain [euTq23FnfHA].mp4",
+            "size": 77.099539,
+            "url": "https://github.com/circuitalmynds/music_j4/blob/main/videos/Barenboim and Plácido Domingo： Manuel de Falla - Nights in the Gardens of Spain [euTq23FnfHA].mp4?raw=true"
+        },
+        {
+            "id": "cYXI344Siew",
+            "name": "The Chemical Brothers - Get Yourself High (Official Music Video) [cYXI344Siew].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/j4/videos/The Chemical Brothers - Get Yourself High (Official Music Video) [cYXI344Siew].mp4",
+            "size": 17.834069,
+            "url": "https://github.com/circuitalmynds/music_j4/blob/main/videos/The Chemical Brothers - Get Yourself High (Official Music Video) [cYXI344Siew].mp4?raw=true"
+        },
+        {
+            "id": "mb6UlfDW-aM",
+            "name": "King Tubby - Psalm Of The Time Dub - Album [mb6UlfDW-aM].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/j4/videos/King Tubby - Psalm Of The Time Dub - Album [mb6UlfDW-aM].mp4",
+            "size": 44.434194999999995,
+            "url": "https://github.com/circuitalmynds/music_j4/blob/main/videos/King Tubby - Psalm Of The Time Dub - Album [mb6UlfDW-aM].mp4?raw=true"
+        },
+        {
+            "id": "Po1ei8rb2x8",
+            "name": "Ludwig Thuille - Piano Concerto in D (1886) [Po1ei8rb2x8].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/j4/videos/Ludwig Thuille - Piano Concerto in D (1886) [Po1ei8rb2x8].mp4",
+            "size": 46.915807,
+            "url": "https://github.com/circuitalmynds/music_j4/blob/main/videos/Ludwig Thuille - Piano Concerto in D (1886) [Po1ei8rb2x8].mp4?raw=true"
+        }
+    ],
+    "total_size": 937.8860060000001
 }
